@@ -1,6 +1,7 @@
 from machine import TouchPad, Pin
 import time
 import random
+// ved can you see this
 red_pin = TouchPad(Pin(33))
 blue_pin = TouchPad(Pin(32))
 green_pin = TouchPad(Pin(14))
